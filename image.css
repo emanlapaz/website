@@ -1,0 +1,197 @@
+.logo {
+  width: 100%;
+  height: 400px;
+  padding-bottom: 30px;
+}
+
+.logoR{
+  border-radius: 25%;
+  width: 100%;
+  height: 400px;
+  padding-bottom: 30px;
+}
+
+.GI { 
+  width: 400px;
+  height: 400px;
+  float: right;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+
+}
+#GI{
+  float: left;
+  width: auto;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 5px;
+  padding: 5px;
+}
+
+.GIlogo{
+ width: 100%;
+ height: 400px;
+ padding-bottom: 10px;
+}
+
+.mainimg{
+  width: 100%;
+  height: 600px;
+}
+
+.maglia{
+ width: 100%;
+ height: 500px;
+ padding-bottom: 20px;
+}
+
+.Gi2021{
+  width:95%;
+  height: 400px;
+  padding: 10px;
+}
+.GIegan{
+  width: 100%;
+  height: 500px;
+}
+
+#GIegan{
+  width: 100%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 5px;
+  padding: 5px;
+}
+
+#index{
+  background-image: linear-gradient(to right, #fffbd5, #ffd194);
+}
+#giro{
+  background-image: linear-gradient(to right, #fffbd5, #fc5c7d);
+}
+
+#TDF{
+  background-image: linear-gradient(to right, #fffbd5,#EDDE5D);
+}
+
+#VE{
+  background-image: linear-gradient(to right, #fffbd5, #dd1818);
+}
+
+#classics{
+  background-image: linear-gradient(to right, #fffbd5, #bdc3c7);
+}
+#gallery{
+  background-image: linear-gradient(to right, #fffbd5, #96c93d);
+}
+
+#about{
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.52), rgba(109, 213, 250, 0.73)),
+  url(../images/author/pass.jpg);
+  background-size: cover;
+}
+
+.tdfimg{
+  padding-top: 20px;
+  width: 100%;
+  height: 700px;
+}
+
+.aboutimg{
+  width: 450px;
+  height: 450px;
+  float: left;
+  border-radius: 50%;
+  padding-left:0px;
+  padding-right: 20px;
+}
+.yellow{
+  width: 400px;
+  height: 200px;
+  float: right;
+  padding-left: 40px;
+  padding-right: 20px;
+  margin-left: 40px;
+}
+
+.tadej{
+ width: 600px;
+ height: 450px;
+ padding: 10px;
+}
+
+.veimg{
+  width: 500;
+  height: auto;
+  padding: 20px;
+
+}
+
+#VEfig{
+  float: right;
+  width: auto;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 5px;
+  padding: 5px;
+}
+
+.rog{
+  padding-top: 20px;
+  width: 100%;
+  height: 700px;
+}
+
+.col{
+  padding-top: 30px;
+  width: 100%;
+  height: 600px;
+}
+.mainpage-img {
+  height: 200px;
+  width: 200px;
+}
+
+
+.penny{
+  width: 500px;
+  height: 400px;
+  float: right;
+  padding: 10px;
+}
+
+.txt{
+  font-style:italic ;
+  font-size: 1em;
+}
+
+.footimg{
+  height: 400px;
+  width: 400px;
+  padding: 20px;
+
+}
+
+iframe{
+  display: block;
+  margin: 0 auto;
+  border: 20px;
+  width: 640px;
+  height: 480px;
+  border-style: none;
+  padding: 20px;
+}
+
+.gallery_img {
+  width: 300px;
+  height: 300px;
+  padding: 5px;
+  margin: 0;
+}

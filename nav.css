@@ -1,0 +1,64 @@
+.navbar {
+  margin: auto;
+  padding-left: 20px;
+  font-size: 130%;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 25px;
+  background-color:#fffbd5;
+}
+
+.active1 {
+  background-color:#fffbd5;
+}
+.active2 {
+  background-color:#fc5c7d;
+}
+.active3 {
+  background-color:#EDDE5D;
+}
+.active4 {
+  background-color:#dd1818;
+}
+.active5 {
+  background-color:#bdc3c7;
+}
+.active6 {
+  background-color:#96c93d;
+}
+.active7 {
+  background-color:#6dd5fa;
+}
+
+header {
+  background-color:FBF8F1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+
+header *{
+  display: inline;
+}
+
+header li {
+  margin: 5px;
+  margin-right: 40px;
+}
+
+header li a {
+  color: black;
+  text-decoration: none;
+  font-size: 80%;
+}
